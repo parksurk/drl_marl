@@ -148,7 +148,7 @@ jupyter notebook
 
 1.	Click **Report.ipynb** on root directory
 
-![MADDPG_Score](assets/maddpg_score_plt.png) Picture 3 - MADDPG Agent - Score Plot
+![MADDPG_Score](assets/maddpg_score_plt.png)<p align="center"> Picture 3 - MADDPG Agent - Score Plot</p>
 
 ---
 
